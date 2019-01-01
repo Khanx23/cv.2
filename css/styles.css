@@ -1,0 +1,206 @@
+body {
+  color: #40514e;
+  font-family: 'Merriweather', serif;
+  font-size: 200%;
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  line-height: 2;
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+  line-height: 2px;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 35px;
+}
+
+p {
+  line-height: 2;
+}
+
+hr {
+  border: dotted #eaf6f6 6px;
+  border-bottom: none;
+  margin: 100px auto;
+  width: 4%
+}
+
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #eaf6f6;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  padding-top: 100px;
+  position: relative;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 0;
+}
+
+.footer-link {
+  font-weight: bold;
+  margin: 30px;
+}
+
+.profile {
+  line-height: 2;
+  margin: 100px auto 100px auto;
+  width: 50%
+}
+
+.skill-row {
+  margin: 100px auto 100px auto;
+  text-align: left;
+  width: 50%;
+}
+
+.rm-row {
+  margin: 100px auto 100px auto;
+  text-align: left;
+  width: 50%;
+}
+
+.iroh {
+  margin: 100px auto;
+  width: 50%;
+}
+
+.gd {
+  float: left;
+  margin-right: 30px;
+  width: 25%;
+}
+
+.bb {
+  float: right;
+  margin-left: 30px;
+  border-radius: 40%;
+  width: 25%;
+}
+
+.office {
+  float: left;
+  margin-right: 30px;
+  border-radius: 10%;
+  width: 25%;
+}
+
+.ali {
+  float: left;
+  margin-right: 30px;
+  width: 25%
+}
+
+.lbj {
+  float: right;
+  margin-left: 30px;
+  width: 25%;
+}
+
+.x {
+  float: left;
+  margin-right: 30px;
+  width: 25%;
+}
+
+.kaj {
+  float: right;
+  margin-left: 30px;
+  width: 25%;
+}
+
+.saw {
+  float: left;
+  margin-right: 30px;
+  width: 25%;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.intro {
+  margin: auto;
+  width: 45%
+}
+
+.contact-msg {
+  margin: 40px auto 60px;
+  width: 40%;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.bottom-cloud {
+  bottom: 300px;
+  left: 800px;
+  position: absolute;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 850px;
+  top: 50px;
+}
+
+.masjid {
+  margin-top: 50px;
+  position: relative;
+  top: 10px;
+}
+
+
+.ak {
+  border-radius: 50%;
+  margin: 60px 0 60px 0;
+}
+
+.butn {
+  -webkit-border-radius: 15;
+  -moz-border-radius: 15;
+  border-radius: 15px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 23px;
+  background: #66BFBF;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.butn:hover {
+  background: #11999E;
+  text-decoration: none;
+}
